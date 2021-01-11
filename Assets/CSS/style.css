@@ -5,21 +5,50 @@
     list-style: none;
     box-sizing: border-box;
 }
+
+/*
 .container-fluid{
-    width: 100%;
+    width: 995px;
     height: 1000px;
     background: #eee;
 }
-.container{
-    background: #fff;
-    width: 955px;
-    
-}
+*/
+
 
 nav{
     background: #2D2654;
-    width: 100%;
-    margin: 0 auto;
-    border: 1px solid #ccc;
-    padding: 10px 10px 14px 10px
+    border: 1px solid #000 ;
+    
 }
+
+.my-col{
+    border: 2px dotted red;
+    background: #fff;
+}
+.my-row{
+    background: #eee;
+    height: 700px;
+}
+
+.col1-row1{
+    border: 2px solid yellow
+}
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
