@@ -1,3 +1,9 @@
+body{
+    font-size: 15px!important;
+}
+
+
+
 *{
     padding: 0px;
     margin: 0px;
@@ -22,28 +28,30 @@ nav{
 }
 
 .my-col{
-    border: 2px dotted red;
+    
     background: #fff;
 }
 .my-row{
     background: #eee;
-    height: 700px;
+    height: 100%;
 }
 
 .col1-row1{
-    border: 2px solid yellow
+    
 }
 
 .row3-col1{
- border: 2px dotted red;   
+   
 }
 
 .row3-col2{
-    border: 2px dotted red;   
+    border-left: 1px dotted #777;
+       
    }
 
 .col-about-me{
-       border: 2px dotted green ;
+       border-bottom: 1px dotted #777 ;
+       
 }
 
 .col-about-me h2{
@@ -53,37 +61,46 @@ nav{
 
 
 .col-contact-me{
-    border: 2px dotted blue ;
+    border-bottom: 1px dotted#777 ;
+    
 }
 
-.col-twitter-iframe{
-    border: 2px dotted indigo ;
+.col2--row2{
+    border-bottom: 1px dotted #777;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 the profile image of Dr. Steven
 */
-.disription-container{
-    max-width: 800px;
-    margin: 40px auto 20px;
-}
 
-.disription-container .floating-image{
-    max-width: 170px;
 
-}
- 
-.disription-container .floating-image.right{
-    float: right;
-    margin-left: 30px;
-    margin-bottom: 10px;
-
+.iframe-scroll{
+    border: 1px solid #eef;
+    border-radius: 5px;
+    max-height: 400px;
+    max-width: 270px;
+    overflow: scroll;
 }
 
 
 
-
-
-
+.fotter-a{
+    color: #2D2654;
+    text-decoration: none;
+    
+}
 
 
 
