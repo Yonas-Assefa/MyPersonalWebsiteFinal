@@ -34,10 +34,22 @@ nav{
     border: 2px solid yellow
 }
 
+.row3-col1{
+ border: 2px dotted red;   
+}
 
+.row3-col2{
+    border: 2px dotted red;   
+   }
 
+   .col-about-me{
+       border: 2px dotted green ;
+   }
 
- 
+   .col-intro{
+    border: 2px dotted green ;
+}
+
  
 
 
