@@ -69,14 +69,18 @@ nav{
     border-bottom: 1px dotted #777;
 }
 
+h4{
+    color: #2D2654;
+}
 
+.lable-1{
+    margin-bottom: 30px;
+    
+}
 
-
-
-
-
-
-
+.btn{
+    border: 2px solid red;
+}
 
 
 
@@ -101,6 +105,105 @@ the profile image of Dr. Steven
     text-decoration: none;
     
 }
+
+
+
+
+
+.blog-1-link{
+    text-decoration: none;
+    color: #2D2654;
+}
+
+.Books-1-link{
+    color: #2D2654;
+    
+}
+
+@media all and (max-width:1200px){
+    .blog-img{
+        width:500px;
+    }
+}
+
+@media all and (max-width:1200px){
+    .blog-img{
+        width:500px;
+    }
+}
+
+@media all and (max-width:810px){
+    .blog-img{
+        width:300px;
+    }
+}
+
+@media all and (max-width:630px){
+    .blog-img{
+        width:200px;
+    }
+}
+
+@media all and (max-width:430px){
+    .blog-img{
+        width:150px;
+    }
+}
+
+@media all and (max-width:325px){
+    .blog-img{
+        width:100px;
+    }
+}
+
+@media all and (max-width:230px){
+    .blog-img{
+        width:70px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
