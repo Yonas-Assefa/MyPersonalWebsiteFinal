@@ -12,6 +12,16 @@ body{
     list-style: none;
     box-sizing: border-box;
 }
+.header-text{
+    font-weight: 900 !important;
+}
+.header-text a{
+    text-decoration: none !important;
+    color: #2D2654;
+}
+.header-text a:hover{
+    color: #2D2654;
+}
 
 /*
 .container-fluid{
